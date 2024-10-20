@@ -5,10 +5,10 @@ This project focuses on analyzing road accidents in India, particularly on and n
 
 The main goal is to lower the number and severity of accidents by offering data-driven insights that can inform policies and preventative measures.
 
-**Problem Statement**
+**Problem Statement:**
 Highway and near-highway accidents contribute to high death tolls, serious injuries, and significant financial losses. Despite the urgency, effective preventative measures are hampered by incomplete and fragmented data. This project aims to address this challenge by analyzing trends, identifying patterns, and offering insights into accident circumstances to inform data-backed interventions.
 
-**Datasets**
+**Datasets:**
 Road_Accidents_data (Month and Hourly wise)
 India_Injury_Road_Accident_Fatality_2017
 
